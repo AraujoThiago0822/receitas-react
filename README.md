@@ -35,10 +35,4 @@ Aplicativo simples de receitas para ambientes ao ar livre, criado com **React Na
 ![descricao3](https://github.com/user-attachments/assets/298f19f3-cf68-427f-a2ea-ee7669ef566b)
 
 
-## 🚀 Como rodar
 
-```bash
-git clone https://github.com/SEU_USUARIO/outdoor-recipes.git
-cd outdoor-recipes
-npm install
-npx expo start
